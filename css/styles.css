@@ -408,11 +408,8 @@ code {
         background-color: rgba(0, 0, 0, 0.1);
     }
     .stats-heading {
-        width: 400px;
+        width: 320px;
         margin: auto;
-    }
-    .showcase-text {
-        animation: slideInFromTop 1s ease-in;
     }
     .showcase-form {
         animation: slideInFromBottom 1s ease-in;
