@@ -411,6 +411,10 @@ code {
         width: 320px;
         margin: auto;
     }
+    .showcase-text {
+        width: 320px;
+        justify-self: center;
+    }
     .showcase-form {
         animation: slideInFromBottom 1s ease-in;
     }
