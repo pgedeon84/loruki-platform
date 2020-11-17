@@ -417,5 +417,6 @@ code {
     }
     .showcase-form {
         animation: slideInFromBottom 1s ease-in;
+        width: 320px;
     }
 }
